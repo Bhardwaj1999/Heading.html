@@ -1,0 +1,92 @@
+* {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    #top {
+        background-color: green;
+        height: 70px;
+    }
+    #bottom{
+        background-color: chocolate;
+        height: 30px;
+    }
+
+    #heading {
+        margin-top: 40px;
+    }
+
+    body {
+        background: linear-gradient(45deg, red, yellow);
+    }
+
+    #HotPizzas {
+        background: linear-gradient(45deg, grey, magenta);
+        width: 500px;
+        padding: 10px;
+        margin: auto;
+        border-radius: 50%;
+        margin: 20px auto;
+    }
+
+    #Pizza {
+        margin-top: 30px;
+    }
+
+
+    h1 {
+        color: white;
+    }
+
+    table {
+        width: 100%;
+        margin: 20px auto;
+    }
+
+    img {
+        border-radius: 20px;
+        box-shadow: 0 0 20 black;
+    }
+
+    #Burger {
+        margin-top: 20px;
+    }
+
+    #CD {
+        margin-top: 20px;
+    }
+
+    #ColdDrink {
+        background: linear-gradient(45deg, grey, magenta);
+        width: 500px;
+        padding: 10px;
+        margin: auto;
+        border-radius: 50%;
+        margin: 20px auto;
+    }
+
+    #FLB {
+        background: linear-gradient(45deg, grey, magenta);
+        width: 500px;
+        padding: 10px;
+        margin: auto;
+        border-radius: 50%;
+        margin: 20px auto;
+    }
+
+    #Menus {
+        float: right;
+        width: 60%;
+        text-align: center;
+        height: 70px;
+        line-height: 70px;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+        margin-right: 30px;
+
+    }
+</style>
